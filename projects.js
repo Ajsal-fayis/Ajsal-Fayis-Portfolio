@@ -20,7 +20,7 @@ const projects = [
     title: "Selenium Automation Testing",
     type: "AUTOMATION TESTING",
     description: "Test automation project built using Selenium WebDriver and Java to automate and validate web application functionality.",
-    highlights: ["Selenium WebDriver", "Java", "Test Automation", "Web Testing"],
+    highlights: ["Selenium WebDriver", "Java", "Test Automation", "Maven"],
     github: "https://github.com/Ajsal-fayis/SeleniumAutomationProject"
 },
 {
@@ -28,7 +28,7 @@ const projects = [
     title: "API Automation Testing",
     type: "API AUTOMATION",
     description: "API automation testing project built using Java, Maven, Rest Assured, and TestNG to validate REST API responses.",
-    highlights: ["Rest Assured", "Java", "TestNG", "Maven"],
+    highlights: ["REST Assured", "Java", "TestNG", "Maven"],
     github: "https://github.com/Ajsal-fayis/API-Automation"
 }
   
